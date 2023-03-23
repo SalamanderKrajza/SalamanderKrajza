@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 Prefixes listed below should help you navigate over my repositories: 
+
+
+- [🔒] [drt- repositories](https://github.com/SalamanderKrajza?tab=repositories&q=drt-) - Private repositories created in doktortusz company
+- [🔒/🔑] [ds- repositories](https://github.com/SalamanderKrajza?tab=repositories&q=py-) - Projects related to DataScience, MachineLearning and Neural Networks. 
+  - 🔒 Private one may include notes/screenshots/projects from various paid courses that should not be shared. 
+  - 🔑 Public ones would be projects created on my own.
+- [🔑] [py- repositories](https://github.com/SalamanderKrajza?tab=repositories&q=py-) - General python projects (may include some not-related libraries like django or PyQt)
+- [🔑] [game- repositories](https://github.com/SalamanderKrajza?tab=repositories&q=game-) - Repositories that mostly contains games itself or be created to interact with games (for example bots that tries to play the game)
+- [🔑] [frontend- repositories](https://github.com/SalamanderKrajza?tab=repositories&q=frontend-) - Related to css, html and js, mostly made during https://cotenfrontend.pl/ course
+- [🔑] [other- repositories](https://github.com/SalamanderKrajza?tab=repositories&q=other-) - Repositories that not matches any category
 
 <!--
 **SalamanderKrajza/SalamanderKrajza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
