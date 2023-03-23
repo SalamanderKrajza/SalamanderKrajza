@@ -2,6 +2,7 @@
 
 
 - [🔒] [drt- repositories](https://github.com/SalamanderKrajza?tab=repositories&q=drt-) - Private repositories created in doktortusz company
+  - Mostly related to data processing/transforming, creating various ML models and ceating own apis or interacting with external.
 - [🔒/🔑] [ds- repositories](https://github.com/SalamanderKrajza?tab=repositories&q=ds-) - Projects related to DataScience, MachineLearning and Neural Networks. 
   - 🔒 Private one may include notes/screenshots/projects from various paid courses that should not be shared. 
   - 🔑 Public ones would be projects created on my own.
